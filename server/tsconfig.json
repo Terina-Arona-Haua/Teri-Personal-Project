@@ -1,8 +1,7 @@
 {
-  "extends": "../tsconfig.json",
-  "include": [".", "../models"],
+  "extends": "./tsconfig.json",
+  "include": ["client/**/*"],
   "compilerOptions": {
-    "outDir": "../dist/server",
-    "noEmit": false
+    "outDir": "dist/client"
   }
 }

@@ -2,5 +2,6 @@ body {
   background-color: #faf8f1;
   color: #0a1520;
   font-family: 'Courier New', Courier, monospace;
-  font-size: small;
+  font-size: large;
+  font-weight: 100;
 }
